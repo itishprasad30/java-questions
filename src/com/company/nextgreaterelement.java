@@ -1,5 +1,7 @@
+package com.company;
+
 // greater elements in a given array
-class Main {
+class nextgreaterelement {
     // prints elements and next greater el pair for all elements of arr[] of size n
 
     static  void  printNextGEL (int arr[] ,int n){
